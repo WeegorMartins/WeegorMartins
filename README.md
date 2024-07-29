@@ -7,7 +7,7 @@
 
 - 📫 Você me acha através do e-mail **weegormartins@hotmail.com**
 
-- 📄 Mais de 4 anos de experiência na área de dados [LinkedIn](https://www.linkedin.com/in/weegormartins/)
+- 📄 Mais de 5 anos de experiência na área de dados [LinkedIn](https://www.linkedin.com/in/weegormartins/)
 
 ## Projetos Principais
 
