@@ -1,8 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou Weegor Martins</h1>
 <h3 align="center">Apaixonado por Ciência e Análise de Dados</h3>
 
-- 🔭 Atualmente estou trabalhando no desenvolvimento de um modelo de Machine Learning baseado em Random Forest otimizada na previsão da cor da cerveja **Previsão de Cor na Indústria Cervejeira**
-
 - 🌱 Atualmente estou aprendendo **Python, Machine Learning, e Técnicas Avançadas de Análise de Dados**
 
 - 💬 Me pergunte sobre **Power BI, SQL, Python, Google Data Studio, Tableau, e Análise Preditiva**
