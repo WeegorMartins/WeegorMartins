@@ -7,7 +7,24 @@
 
 - 📫 Você me acha através do e-mail **weegormartins@hotmail.com**
 
-- 📄 Mais de 5 anos de experiência na área de dados [LinkedIn](https://www.linkedin.com/in/weegormartins/)
+- 📄 Mais de 4 anos de experiência na área de dados [LinkedIn](https://www.linkedin.com/in/weegormartins/)
+
+## Projetos Principais
+
+### Sistema de Recomendação para E-commerce
+Desenvolvi um sistema de recomendação utilizando Machine Learning e Big Data, com algoritmos de Collaborative Filtering e Matrix Factorization. Usei SQL e Python para manipulação de dados e implementei pipelines de MLOps em AWS.
+
+### Análise de Sentimentos de Redes Sociais
+Realizei uma análise de sentimentos de postagens em redes sociais para uma campanha de marketing, utilizando NLP com NLTK e spaCy. Implementei um modelo de Deep Learning com TensorFlow, alcançando 90% de precisão. Criei dashboards interativos em Tableau para visualização.
+
+### Modelo de Previsão de Churn
+Desenvolvi um modelo de previsão de churn para identificar clientes em risco de deixar o serviço, utilizando Random Forest e K-Means. Realizei EDA para entender os padrões de churn e criei dashboards em Power BI para gerar insights acionáveis.
+
+### Previsão de Demanda para Cadeia de Suprimentos
+Desenvolvi um modelo de previsão de demanda usando algoritmos de regressão e time series analysis. Utilizei Python, scikit-learn e statsmodels, e implementei a solução em Azure com pipelines de ETL.
+
+### Otimização de Preços
+Implementei um sistema de otimização de preços utilizando regressão linear e XGBoost para maximizar a margem de lucro e competitividade. Desenvolvi painéis interativos em Tableau para monitorar e ajustar preços em tempo real.
 
 <h3 align="left">Conecte-se Comigo:</h3>
 <p align="left">
@@ -29,3 +46,4 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=weegormartins&show_icons=true&locale=en&layout=compact" alt="weegormartins" /></p>
+
